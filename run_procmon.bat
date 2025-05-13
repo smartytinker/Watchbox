@@ -2,7 +2,7 @@
 setlocal
 
 
-set "PROJECT_PATH=%USERPROFILE%\Desktop\Project 1"
+set "PROJECT_PATH=%USERPROFILE%\Desktop\Watchdog-main"
 set "PROC_PATH=%PROJECT_PATH%\Procmon64a.exe"
 set "LOG_PATH=%PROJECT_PATH%\procmon_log.pml"
 
